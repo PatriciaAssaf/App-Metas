@@ -53,3 +53,7 @@ Sequência de passos lógicos e finitos para resolução de um problema.
 ## Estrutura de Repetição
 
 - [x] While
+
+## Condicionais
+
+[x] switch
