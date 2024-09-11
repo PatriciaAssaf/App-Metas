@@ -49,3 +49,7 @@ Sequência de passos lógicos e finitos para resolução de um problema.
 [x] - criar, passar argumento
 [x] - executar
 [x] - função de seta / função nomeada
+
+## Estrutura de Repetição
+
+- [x] While
