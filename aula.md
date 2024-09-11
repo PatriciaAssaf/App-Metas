@@ -57,3 +57,12 @@ Sequência de passos lógicos e finitos para resolução de um problema.
 ## Condicionais
 
 [x] switch
+
+## Módulos em Node.js:
+
+- [x] Importação de módulos (require, CommonJS)
+- [x] Biblioteca "inquirer" para criar prompts interativos
+
+## Programação assíncrona e Promessas:
+
+- [x] Uso de funções assíncronas (async/await)
