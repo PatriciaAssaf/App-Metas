@@ -34,11 +34,15 @@ Sequência de passos lógicos e finitos para resolução de um problema.
 [x] - Booleano: verdadeiro, falso
 
 ## Operadores
-[x] - Operadores de atribuição de valor: =
-[x] - Operador de concatenação: +
+- [x] - Operadores de atribuição de valor: =
+- [x] - Operador de concatenação: +
+- [x] - Operadores de comparação: == != < > <= >=
 
 ## Estruturas de dados
-[x] - Arrays - Uma lista que contém qualquer tipo de dado
+
+### Arrays 
+- [x] Uma lista que contém qualquer tipo de dado
+- [x] Métodos de array: push, find, forEach
 
 ## Objetos: Entre {} seguida de uma atribuição de valor (=). Todo objetivo tem uma propriedade e um valor 
 [x]- Atributos e métodos
@@ -56,7 +60,8 @@ Sequência de passos lógicos e finitos para resolução de um problema.
 
 ## Condicionais
 
-[x] switch
+- [x] switch
+- [x] if/else
 
 ## Módulos em Node.js:
 
